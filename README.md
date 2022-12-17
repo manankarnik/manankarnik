@@ -44,7 +44,7 @@
   <summary><h2>Activity</h2></summary>
   <p align="center">
     <a href="#">
-      <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=manankarnik&theme=dracula&bg_color=282a36&hide_border=true"/>
+      <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=manankarnik&theme=dracula&bg_color=282a36&hide_border=true"/>
     </a>
   </p>
 </details>
